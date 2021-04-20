@@ -68,6 +68,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="a.aspx" />
+    <Content Include="aws-brands.svg" />
     <Content Include="Global.asax" />
     <Content Include="Sample1.aspx" />
     <Content Include="Sample1Com.aspx" />
